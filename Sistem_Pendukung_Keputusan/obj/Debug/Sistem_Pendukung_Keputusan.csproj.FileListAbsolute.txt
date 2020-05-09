@@ -1,0 +1,11 @@
+c:\users\pengkuh\source\repos\Sistem_Pendukung_Keputusan\Sistem_Pendukung_Keputusan\bin\Debug\Sistem_Pendukung_Keputusan.exe.config
+c:\users\pengkuh\source\repos\Sistem_Pendukung_Keputusan\Sistem_Pendukung_Keputusan\bin\Debug\Sistem_Pendukung_Keputusan.exe
+c:\users\pengkuh\source\repos\Sistem_Pendukung_Keputusan\Sistem_Pendukung_Keputusan\bin\Debug\Sistem_Pendukung_Keputusan.pdb
+c:\users\pengkuh\source\repos\Sistem_Pendukung_Keputusan\Sistem_Pendukung_Keputusan\obj\Debug\Sistem_Pendukung_Keputusan.csprojAssemblyReference.cache
+c:\users\pengkuh\source\repos\Sistem_Pendukung_Keputusan\Sistem_Pendukung_Keputusan\obj\Debug\Sistem_Pendukung_Keputusan.Preferensi_Pengguna.resources
+c:\users\pengkuh\source\repos\Sistem_Pendukung_Keputusan\Sistem_Pendukung_Keputusan\obj\Debug\Sistem_Pendukung_Keputusan.Properties.Resources.resources
+c:\users\pengkuh\source\repos\Sistem_Pendukung_Keputusan\Sistem_Pendukung_Keputusan\obj\Debug\Sistem_Pendukung_Keputusan.csproj.GenerateResource.cache
+c:\users\pengkuh\source\repos\Sistem_Pendukung_Keputusan\Sistem_Pendukung_Keputusan\obj\Debug\Sistem_Pendukung_Keputusan.csproj.CoreCompileInputs.cache
+c:\users\pengkuh\source\repos\Sistem_Pendukung_Keputusan\Sistem_Pendukung_Keputusan\obj\Debug\Sistem_Pendukung_Keputusan.exe
+c:\users\pengkuh\source\repos\Sistem_Pendukung_Keputusan\Sistem_Pendukung_Keputusan\obj\Debug\Sistem_Pendukung_Keputusan.pdb
+C:\Users\Pengkuh\source\repos\Sistem_Pendukung_Keputusan\Sistem_Pendukung_Keputusan\obj\Debug\Sistem_Pendukung_Keputusan.Pemilihan_Tempat.resources
